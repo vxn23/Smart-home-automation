@@ -1,0 +1,11 @@
+Time,Temperature,Motion,Device
+6,22,1,Light ON
+7,24,1,Fan ON
+8,26,1,Fan ON
+12,30,0,Fan ON
+18,29,1,Light ON
+19,28,1,Light ON
+22,27,0,Light OFF
+23,26,0,Light OFF
+1,24,0,Light OFF
+2,23,0,Light OFF
